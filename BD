@@ -1,3 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi" ,ATN news TV
+http://iptvbd.jagobd.com:1931/live-orgin/atnws-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi" ,Deepto TV
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", Somoy TV
